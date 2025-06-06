@@ -47,10 +47,12 @@ It includes detailed information on:
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 sheet1(data_jobs)
-    - ![steps1](https://github.com/user-attachments/assets/67c31ea6-5ba1-4263-b4df-c2829c1f10f5)
+    - ![query_full_1](https://github.com/user-attachments/assets/47686bc4-3757-4e2c-a103-07a680f36a66)
 
-    - 🛠️ sheet2(data_job_skills
-    - ![query_full_2](https://github.com/user-attachments/assets/0b2c3e0f-1e4b-47d3-9802-21300c96dfed)
+
+    - 🛠️ sheet1 (2)(data_job_skills)
+    - ![query_full_2](https://github.com/user-attachments/assets/34a1d95e-75df-414e-afe2-4e02dd72bd90)
+
 
 ### 📊 Analysis
 
