@@ -166,8 +166,6 @@ It includes detailed information on:
 
 ## Conclusion
 
-This project allowed me to explore Excel's advanced data analysis capabilities by working with a real-world dataset of 30K+ data science job listings. Using tools like Power Query, Power Pivot, PivotTables, and DAX, I was able to extract key insights about salary trends, skill demand, and geographic differences in the tech job market.
-
-I found that roles requiring more technical skills like Python, SQL, and cloud technologies consistently offered higher median salaries. Additionally, US-based jobs showed a noticeable salary advantage over non-US roles. These insights highlight the importance of continuously upgrading one’s skills to stay competitive in a rapidly evolving field.
+This project sharpened my skills in Power Query, DAX, and PivotTables while working with real-world job data. I uncovered key salary trends linked to skills and geography, reinforcing the value of data-driven career planning.
 
 Overall, this hands-on project improved my data modeling, transformation, and visualization skills in Excel — tools I can now confidently apply in real data analysis scenarios.
